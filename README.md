@@ -69,7 +69,7 @@ Upload:
 
 ### Output
 Download the processed video with highlighted segments.
-- **#[Output Video](output_video.mp4)**
+- **[Output Video](output_video.mp4)**
 
 ---
 
