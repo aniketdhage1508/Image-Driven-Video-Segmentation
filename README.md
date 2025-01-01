@@ -61,10 +61,14 @@ The system integrates:
 ### Input
 Upload:
 - **A video file** (e.g., `.mp4`, `.avi`).
-- **A reference image** (e.g., `.jpg`, `.png`).
+- **A person image** (e.g., `.jpg`, `.png`).
+Eg.
+![Input Image](input_image.jpg)
+![Output Video](output_video.mp4)
 
 ### Output
 Download the processed video with highlighted segments.
+![Output Video](output_video.mp4)
 
 ---
 
