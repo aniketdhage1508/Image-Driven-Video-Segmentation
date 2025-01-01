@@ -29,7 +29,7 @@ The system integrates:
    - Frames with matches are clipped and compiled into a new video.
 3. **Output**: A downloadable video containing only the relevant segments.
 
-![Process Flow](path/to/process_flow_image.png)
+![Process Flow](Use_Case_Diagram.png)
 
 ---
 
@@ -43,7 +43,7 @@ The system integrates:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/vision-matrix.git
+   git clone https://github.com/aniketdhage1508/vision-matrix.git
    cd vision-matrix
    ```
 2. Install dependencies:
