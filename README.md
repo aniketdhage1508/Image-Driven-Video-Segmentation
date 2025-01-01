@@ -59,16 +59,12 @@ The system integrates:
 
 ## Demo
 ### Input
-![Input File 1](Tom_Cruise.jpg)
-![Input File 2](input_video.mp4)
 Upload:
 - **A video file** (e.g., `.mp4`, `.avi`).
 - **A reference image** (e.g., `.jpg`, `.png`).
 
 ### Output
 Download the processed video with highlighted segments.
-
-![Project Demonstration](path/to/demo_input_output_image.png)
 
 ---
 
