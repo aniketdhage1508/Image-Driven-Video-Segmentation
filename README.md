@@ -99,15 +99,10 @@ Contributions are welcome! Please submit a pull request or open an issue for dis
 
 ---
 
-## Acknowledgments
-This project is part of the AIIC Project Competition at **VishwaCon**, developed by the **Vision Matrix** team.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Thank you for using Vision Matrix! For any queries, feel free to contact us.
 
 
 ### Notes:
