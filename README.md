@@ -17,7 +17,7 @@ The system integrates:
 2. **OpenCV** for frame extraction, face recognition, and video processing.
 3. **Streamlit** for user interface and interaction.
 
-![System Architecture](path/to/system_architecture_image.png)
+![System Architecture](System_Architecture.png)
 
 ---
 
