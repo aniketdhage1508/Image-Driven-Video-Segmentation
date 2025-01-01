@@ -59,6 +59,7 @@ The system integrates:
 
 ## Demo
 ### Input
+![Input Files](Tom_Cruise.jpg)(temp_video.mp4)
 Upload:
 - **A video file** (e.g., `.mp4`, `.avi`).
 - **A reference image** (e.g., `.jpg`, `.png`).
