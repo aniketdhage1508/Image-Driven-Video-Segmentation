@@ -97,9 +97,3 @@ Contributions are welcome! Please submit a pull request or open an issue for dis
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-
-### Notes:
-- Replace `path/to/...` placeholders with the actual paths to the images (training curves, system architecture, process flow, demo input-output) in your repository.
-- Add a `requirements.txt` file with the necessary Python libraries.
-- Update the contact and license information as per your preferences.
