@@ -43,8 +43,8 @@ The system integrates:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aniketdhage1508/vision-matrix.git
-   cd vision-matrix
+   git clone https://github.com/aniketdhage1508/Image-Driven-Video-Segmentation.git
+   cd Image-Driven-Video-Segmentation
    ```
 2. Install dependencies:
    ```bash
@@ -66,7 +66,7 @@ Upload:
 ### Output
 Download the processed video with highlighted segments.
 
-![Demo Input-Output](path/to/demo_input_output_image.png)
+![Project Demonstration](path/to/demo_input_output_image.png)
 
 ---
 
