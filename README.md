@@ -59,19 +59,8 @@ The system integrates:
 
 ## Demo
 ### Input
-<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
-
-  <!-- Image -->
-  <img src="Tom_Cruise.jpg" alt="Demo Image" style="width: 45%; height: auto;">
-
-  <!-- Video -->
-  <video controls style="width: 45%; height: auto;">
-    <source src="temp_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-</div>
-
+![Input File 1](Tom_Cruise.jpg)
+![Input File 2](input_video.mp4)
 Upload:
 - **A video file** (e.g., `.mp4`, `.avi`).
 - **A reference image** (e.g., `.jpg`, `.png`).
