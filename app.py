@@ -95,7 +95,7 @@ def video_processor():
 
     if uploaded_image and uploaded_video:
         if st.button("Process Video"):
-            image_path = f"person_image.jpg"
+            image_path = f"target_person.jpg"
             video_path = f"video_footage.mp4"
             output_path = "segmented_video.mp4"
 
