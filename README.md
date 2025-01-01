@@ -63,13 +63,13 @@ Upload:
 - **A video file** (e.g., `.mp4`, `.avi`).
 - **A person image** (e.g., `.jpg`, `.png`).
 
-#### **Eg.**
+### **Eg.**
 - **[Input Image](input_image.jpg)**
 - **[Input Video](input_video.mp4)**
 
 ### Output
 Download the processed video with highlighted segments.
-[Output Video](output_video.mp4)
+- #**[Output Video](output_video.mp4)**
 
 ---
 
