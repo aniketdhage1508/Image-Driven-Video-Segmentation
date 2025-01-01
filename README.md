@@ -70,11 +70,7 @@ Download the processed video with highlighted segments.
 
 ## Results
 ### Training Curves
-![Training Curves](path/to/training_curves_image.png)
-
-### Original vs Processed Video
-![Original Video](path/to/original_video_image.png)
-![Segmented Video](path/to/segmented_video_image.png)
+![Training Curves](Training_Plots.jpg)
 
 ---
 
