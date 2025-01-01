@@ -1,5 +1,3 @@
-
-```markdown
 # Vision Matrix: Image-Driven Video Segmentation for Surveillance
 
 ## Project Overview
@@ -110,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for using Vision Matrix! For any queries, feel free to contact us.
-```
+
 
 ### Notes:
 - Replace `path/to/...` placeholders with the actual paths to the images (training curves, system architecture, process flow, demo input-output) in your repository.
